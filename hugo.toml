@@ -2,3 +2,8 @@ baseURL = 'https://www.riffroost.com/'
 languageCode = 'en-us'
 title = 'Riff Roost'
 theme = 'ananke'
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/"
