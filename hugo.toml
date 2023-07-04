@@ -1,0 +1,4 @@
+baseURL = 'https://www.riffroost.com/'
+languageCode = 'en-us'
+title = 'Riff Roost'
+theme = 'ananke'
