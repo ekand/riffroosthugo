@@ -11,3 +11,8 @@ theme = 'ananke'
   name = "Subscribe"
   identifier = "subscribe"
   url = "/subscribe/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
